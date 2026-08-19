@@ -1,0 +1,14 @@
+.gradle/
+build/
+**/build/
+local.properties
+.idea/
+*.iml
+
+# Signing keys
+*.jks
+*.keystore
+
+# OS/editor files
+.DS_Store
+Thumbs.db
