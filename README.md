@@ -6,6 +6,8 @@ CallGuard is a small, offline Android call-screening utility. It can either let 
 
 Originally built and tested on a **Samsung Galaxy S10 running Android 12**. CallGuard is designed for **Android 10 (API 29) and newer**, currently compiles and targets **Android 16 (API 36)**, and should work on Android versions where the standard Android Call Screening role and `CallScreeningService` are available. Device diallers, manufacturer background policies, and carrier voicemail behaviour can vary, so testing on additional devices is recommended.
 
+<img width="240" alt="CallGuard" src="https://github.com/user-attachments/assets/d124b743-1910-40ae-afcf-0260e427a625" />
+
 ## What it does
 
 - Uses Android's official `CallScreeningService` and Call Screening role.
