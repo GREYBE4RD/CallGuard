@@ -2,7 +2,7 @@
 
 Version 1.4.4
 
-CallGuard is a small, offline Android call-screening utility. It can either let saved contacts ring while sending other callers to voicemail, or send all incoming calls to voicemail.
+CallGuard is a small, offline Android call-screening utility. It can either let saved contacts ring while sending other callers straight to voicemail (no ring), or send all incoming calls straight to voicemail.
 
 Originally built and tested on a **Samsung Galaxy S10 running Android 12**. CallGuard is designed for **Android 10 (API 29) and newer**, currently compiles and targets **Android 16 (API 36)**, and should work on Android versions where the standard Android Call Screening role and `CallScreeningService` are available. Device diallers, manufacturer background policies, and carrier voicemail behaviour can vary, so testing on additional devices is recommended.
 
